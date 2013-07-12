@@ -88,7 +88,7 @@ Live demos are available on our [website](http://todomvc.com)
 
 ## Screenshot
 
-![screenshot](https://raw.github.com/tastejs/todomvc/gh-pages/screenshot.png)
+![screenshot](https://raw.github.com/padala/todomvc/gh-pages/screenshot.png)
 
 
 ## Team
