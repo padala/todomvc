@@ -1,4 +1,4 @@
-# ![TodoMVC](https://raw.github.com/tastejs/todomvc/gh-pages/media/logo.png)
+# ![TodoMVC](https://raw.github.com/padala/todomvc/gh-pages/media/logo.png)
 
 ## Helping you select an MV\* framework
 
